@@ -7,3 +7,5 @@ Learn Tailwind CSS in this tutorial series. From dev environment set up and usef
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- [Inline fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
