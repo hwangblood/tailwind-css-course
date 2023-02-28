@@ -4,8 +4,15 @@ Init Tailwind CSS:
 npx tailwindcss init
 ```
 
-compile the style.css file:
+Compile the style.css file:
 
 ```shell
 npx tailwindcss -i ./src/input.css -o ./build/css/style.css
+```
+
+Compile with `--watch`:
+
+```shell
+
+npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
 ```
