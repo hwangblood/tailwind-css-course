@@ -6,7 +6,7 @@ Learn Tailwind CSS in this tutorial series. From dev environment set up and usef
 
 - [Bullseye](./bullseye)
 
-
+- [Acme Rockets](./acme-rockets)
 
 ## VS Code Extensions
 
