@@ -2,6 +2,12 @@
 
 Learn Tailwind CSS in this tutorial series. From dev environment set up and useful VS Code extensions to building and deploying a complete project with Tailwind!
 
+## Projects TOC
+
+- [Bullseye](./bullseye)
+
+
+
 ## VS Code Extensions
 
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
