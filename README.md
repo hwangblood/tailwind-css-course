@@ -15,3 +15,10 @@ Learn Tailwind CSS in this tutorial series. From dev environment set up and usef
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 - [Inline fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
+
+## References
+
+- [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/)
+- [Unicode Character Table](https://symbl.cc/en/)
+- [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+
