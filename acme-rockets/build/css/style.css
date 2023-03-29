@@ -583,6 +583,10 @@ video {
   scroll-margin-top: 10rem;
 }
 
+.scroll-mt-20 {
+  scroll-margin-top: 5rem;
+}
+
 .list-none {
   list-style-type: none;
 }
@@ -615,6 +619,10 @@ video {
   --tw-space-x-reverse: 0;
   margin-right: calc(2rem * var(--tw-space-x-reverse));
   margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.scroll-smooth {
+  scroll-behavior: smooth;
 }
 
 .rounded-3xl {
